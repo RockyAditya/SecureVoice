@@ -1,0 +1,14 @@
+{
+    "user1": {
+        "sentence": "password",
+        "voice_path": "recordings/user1_voice.wav"
+    },
+    "user_data/user_profiles.json": {
+        "sentence": "hello",
+        "voice_path": "recordings/user_voice.wav"
+    },
+    "default_user": {
+        "sentence": "i eat fruits",
+        "voice_path": "recordings/user_voice.wav"
+    }
+}

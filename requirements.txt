@@ -1,0 +1,7 @@
+SpeechRecognition
+pyaudio
+resampy
+librosa
+resemblyzer
+numpy
+pydub
